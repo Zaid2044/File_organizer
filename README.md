@@ -67,34 +67,18 @@ Examples:
 Organize files in a directory named Downloads located in your user's home folder (assuming organizer.py is elsewhere):
 
 python organizer.py /Users/yourusername/Downloads
-IGNORE_WHEN_COPYING_START
-content_copy
-download
-Use code with caution.
-Bash
-IGNORE_WHEN_COPYING_END
 
 (On Windows, this might be python organizer.py C:\Users\yourusername\Downloads)
 
 Organize files in a subdirectory named messy_folder relative to where you are running the script:
 
 python organizer.py ./messy_folder
-IGNORE_WHEN_COPYING_START
-content_copy
-download
-Use code with caution.
-Bash
-IGNORE_WHEN_COPYING_END
+
 
 Organize files using a custom configuration file named my_rules.json:
 
 python organizer.py ./messy_folder -c ./my_rules.json
-IGNORE_WHEN_COPYING_START
-content_copy
-download
-Use code with caution.
-Bash
-IGNORE_WHEN_COPYING_END
+
 How It Works
 
 The script reads the specified source directory.
