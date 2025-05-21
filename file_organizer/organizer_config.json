@@ -1,0 +1,15 @@
+{
+  ".pdf": "PDFs",
+  ".jpg": "Images",
+  ".jpeg": "Images",
+  ".png": "Images",
+  ".txt": "TextFiles",
+  ".docx": "Documents",
+  ".zip": "Archives",
+  ".csv": "Data",
+  ".py": "PythonScripts",
+  ".mp3": "Music",
+  ".mp4": "Videos",
+  ".exe": "Executables",
+  ".iso": "DiskImages"
+}
