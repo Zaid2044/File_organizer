@@ -68,3 +68,41 @@ pip install -r requirements.txt  # (Optional, if using additional libraries)
 
 ---
 
+## 🚀 How to Run
+
+```bash
+python organize.py "C:\Path\To\Your\Folder"
+```
+
+📌 Example:
+
+```bash
+python organize.py "C:\Users\Zaid\Downloads"
+```
+
+---
+
+## 📁 Project Structure
+
+```
+File_organizer/
+├── organize.py
+├── config.py         # (optional: file type mappings)
+├── README.md
+└── requirements.txt  # (if you use argparse or rich for CLI formatting)
+```
+
+---
+
+## 🧩 Future Improvements
+
+* ✅ Drag-and-drop GUI
+* 🕐 Auto-run at regular intervals
+* 🧠 ML-based smart categorization
+* 📤 Cloud sync for organized files
+
+---
+
+## 🧑‍💻 Author
+
+**MOHAMMED ZAID AHMED**
