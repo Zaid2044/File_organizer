@@ -85,11 +85,27 @@ python organize.py "C:\Users\Zaid\Downloads"
 ## 📁 Project Structure
 
 ```
-File_organizer/
-├── organize.py
-├── config.py        
-├── README.md
-└── requirements.txt  
+File_organizer/   
+├── file_organizer/     
+|   ├── test_files_to_organize/
+|       ├── Archives/
+|           └── archive.zip
+|       ├── Data/
+|           └── data.csv
+|       ├── Documents/
+|           └── document.docx
+|       ├── Images/
+|           ├── image1.png
+|           └── photo.png
+|       ├── PDFs/
+|           └── report.pdf
+|       ├── PythonScripts/
+|           └── myscript.py
+|       └── TextFiles/
+|           └── notes.txt
+|   ├── prganizer_config.json
+|   └── organizer.py
+└── README.md                   
 ```
 
 ---
