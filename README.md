@@ -24,3 +24,28 @@ For example:
 
 ---
 
+## ✨ Features
+
+* 📂 Automatically creates and populates folders by file type
+* ⚙️ Customizable file type mappings
+* 🔁 Can be re-run multiple times (non-destructive)
+* 📦 Supports all major file formats
+
+---
+
+## 🔍 File Categories (Default)
+
+| Folder    | Extensions                                |
+| --------- | ----------------------------------------- |
+| Images    | `.jpg`, `.jpeg`, `.png`, `.gif`, `.bmp`   |
+| Documents | `.pdf`, `.docx`, `.txt`, `.pptx`, `.xlsx` |
+| Videos    | `.mp4`, `.mkv`, `.mov`, `.avi`            |
+| Audio     | `.mp3`, `.wav`, `.aac`, `.flac`           |
+| Archives  | `.zip`, `.rar`, `.tar`, `.gz`, `.7z`      |
+| Scripts   | `.py`, `.js`, `.sh`, `.bat`               |
+| Others    | Everything else                           |
+
+> You can easily customize or extend these in the code.
+
+---
+
