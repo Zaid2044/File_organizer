@@ -63,7 +63,7 @@ git clone https://github.com/Zaid2044/File_organizer.git
 cd File_organizer
 python -m venv venv
 .\venv\Scripts\activate
-pip install -r requirements.txt  # (Optional, if using additional libraries)
+pip install -r requirements.txt  
 ```
 
 ---
@@ -87,9 +87,9 @@ python organize.py "C:\Users\Zaid\Downloads"
 ```
 File_organizer/
 ├── organize.py
-├── config.py         # (optional: file type mappings)
+├── config.py        
 ├── README.md
-└── requirements.txt  # (if you use argparse or rich for CLI formatting)
+└── requirements.txt  
 ```
 
 ---
