@@ -49,3 +49,22 @@ For example:
 
 ---
 
+## ⚙️ Setup Instructions
+
+### ✅ Prerequisites
+
+* Python 3.9 or above
+* Git or direct download of `.py` script
+
+### 📦 Installation
+
+```bash
+git clone https://github.com/Zaid2044/File_organizer.git
+cd File_organizer
+python -m venv venv
+.\venv\Scripts\activate
+pip install -r requirements.txt  # (Optional, if using additional libraries)
+```
+
+---
+
