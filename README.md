@@ -89,18 +89,18 @@ File_organizer/
 ├── file_organizer/     
 |   ├── test_files_to_organize/
 |       ├── Archives/
-|           └── archive.zip
+|       |   └── archive.zip
 |       ├── Data/
-|           └── data.csv
+|       |   └── data.csv
 |       ├── Documents/
-|           └── document.docx
+|       |   └── document.docx
 |       ├── Images/
-|           ├── image1.png
-|           └── photo.png
+|       |   ├── image1.png
+|       |   └── photo.png
 |       ├── PDFs/
-|           └── report.pdf
+|       |   └── report.pdf
 |       ├── PythonScripts/
-|           └── myscript.py
+|       |   └── myscript.py
 |       └── TextFiles/
 |           └── notes.txt
 |   ├── prganizer_config.json
